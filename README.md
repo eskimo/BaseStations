@@ -2,6 +2,8 @@
 
 Apple kept denying this app for the App Store, so here you go.
 
-I made this since SteamVR kept failing to properly wake/sleep my base stations.
+I made this simple iOS/iPadOS/macOS app since SteamVR kept failing to properly wake/sleep my base stations.
 
-This is compatbile with Valve Index Base Station 2.0 only.
+Compatbile with Valve Index Base Station 2.0
+
+![screenshot](https://i.arxius.io/891a063f.png)
